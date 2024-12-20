@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice_2</string>
+    <string-array name="animations">
+        <item>Scale</item>
+        <item>Rotate Half</item>
+        <item>Rotate Full</item>
+        <item>Bounce</item>
+        <item>Fade</item>
+        <item>Slide</item>
+        <item>Flip</item>
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+    </string-array>
+</resources>
